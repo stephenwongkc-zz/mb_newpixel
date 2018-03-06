@@ -1,7 +1,6 @@
 # mb-newpixel-bluetoothallowed
 
-hacked up neopixel driver to allow bluetooth, corruption be damned
-
+hacked up neopixel driver to allow bluetooth
 ## License
 
 MIT
