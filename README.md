@@ -1,4 +1,4 @@
-# neopixel-bluetoothallowed
+# mb-newpixel-bluetoothallowed
 
 hacked up neopixel driver to allow bluetooth, corruption be damned
 
