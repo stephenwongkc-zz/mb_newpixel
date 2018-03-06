@@ -1,5 +1,5 @@
 {
-    "name": "neopixel-bluetoothallowed",
+    "name": "mb-newpixel-bluetoothallowed",
     "version": "0.0.2",
     "description": "hacked up neopixel driver to allow bluetooth, corruption be damned",
     "license": "MIT",
